@@ -1,4 +1,1 @@
-#!/bin/bash
-pwd
-
-echo "This is my first change"
+echo "This is Devops bAsic Training"
